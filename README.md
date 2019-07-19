@@ -13,8 +13,8 @@
 * não é necessário utilizar nenhum framework, procure utilizar os recursos da linguagem;
 * a solução deve ter um script que possa compilar e testar a partir da linha de comando;
 * coloque a solução em um repositório GitHub;
-* crie um arquivo `leiame.txt` se precisar adicionar qualquer comentário/observação que achar importante;
-* envie o link do projeto por e-mail quando terminar;
+* se precisar adicionar qualquer comentário/observação que achar importante, crie um arquivo `leiame.txt`;
+* quando terminar, envie o link do projeto por e-mail;
 * seja criativo!
 
 ## orientações
