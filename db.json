@@ -1,5 +1,5 @@
 {
-	"movimentacoes": [{
+	"pagamentos": [{
 			"data": "11/jul",
 			"descricao": "Auto Posto Shell",
 			"moeda": "R$",
@@ -77,7 +77,7 @@
 			"categoria": "higiene"
 		},
 		{
-			"data": "xxx",
+			"data": "07 / jul",
 			"descricao": "Posto Vale Da Lua Ltda",
 			"modeda": "R$",
 			"valor": "-180,06",
@@ -131,6 +131,49 @@
 			"modeda": "R$",
 			"valor": "-140,91",
 			"categoria": "alimentacao"
+		}
+	],
+	"recebimentos": [{
+			"data": "10 / jul",
+			"descricao": "Marcelo B.",
+			"moeda": "R$",
+			"valor": "50,00"
+		},
+		{
+			"data": "04 / jul",
+			"descricao": "Antonio C.",
+			"moeda": "R$",
+			"valor": "15,00"
+		},
+		{
+			"data": "02 / jul",
+			"descricao": "Luciano N.",
+			"moeda": "R$",
+			"valor": "68,00"
+		},
+		{
+			"data": "19 / abr",
+			"descricao": "Marcelo B.",
+			"moeda": "R$",
+			"valor": "62,00"
+		},
+		{
+			"data": "07 / mai",
+			"descricao": "Douglas S.",
+			"moeda": "R$",
+			"valor": "45,00"
+		},
+		{
+			"data": "20 / mai",
+			"descricao": "Daniela S.",
+			"moeda": "R$",
+			"valor": "6,00"
+		},
+		{
+			"data": "13 / jun",
+			"descricao": "Renata B.",
+			"moeda": "R$",
+			"valor": "268,5"
 		}
 	]
 }
