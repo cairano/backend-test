@@ -12,6 +12,7 @@
 * não é necessário utilizar nenhum framework, procure utilizar os recursos da linguagem;
 * a solução deve ter um script que possa compilar e testar a partir da linha de comando;
 * crie testes;
+* para as chamadas de API utilize a URL [my-json-server.typicode.com/cairano/backend-test](https://my-json-server.typicode.com/cairano/backend-test/);
 * coloque a solução em um repositório GitHub;
 * utilize o arquivo `README.md` para descrever seu raciocínio, lógica e detalhes da solução;
 * quando terminar, envie o link do projeto por e-mail;
@@ -19,7 +20,7 @@
 
 ## orientações
 
-dado o seguinte log de movimentações de uma conta:
+dado o log de movimentações de uma conta:
 
 ```text
 Data              Descricao                   Valor               Categoria
@@ -55,7 +56,10 @@ Data              Descricao                   Valor               Categoria
 25-May		  UATT                        -79,9               alimentacao
 ```
 
-a partir do input de um arquivo de log no formato acima, montar um resultado com as seguintes informações:
+* fazer o input dos dados acima, usando um arquivo no formato de log; 
+* chamar os recursos de API e combinar os dados para processamento.
+
+montar um resultado com as seguintes informações:
 
 * exibir o log de movimentações de forma ordenada;
 * informar o total de gastos por categoria;
