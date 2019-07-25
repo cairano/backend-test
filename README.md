@@ -8,7 +8,7 @@
 
 ## requisitos
 
-* desenvolva a solução em linguagem **C#** ou **Java**;
+* desenvolva a solução em **C#** ou **Java**;
 * não é necessário utilizar nenhum framework, procure utilizar os recursos da linguagem;
 * a solução deve ter um script que possa compilar e testar a partir da linha de comando;
 * crie testes;
