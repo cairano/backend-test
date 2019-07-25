@@ -20,7 +20,7 @@
 
 ## orientações
 
-dado o log de movimentações de uma conta:
+dado as informações de movimentação de uma conta:
 
 ```text
 Data              Descricao                   Valor               Categoria
