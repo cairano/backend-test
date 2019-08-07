@@ -51,7 +51,7 @@ Data              Descricao                   Valor               Categoria
 05-Jun		  Uber Do Brasil Tecnolog     -7,03               TRANSPORTE
 12-Jun		  ITUNES.COM/BILL             -10,9               diversao
 25-May		  Uber Do Brasil Tecnolog     -8,65               transporte
-20-Jun            EBANX AIRBNB 		      338,75              hospedagem
+20-Jun            EBANX AIRBNB 		      -338,75              hospedagem
 21-May		  Antonio Coutinho            120,00	
 25-May		  UATT                        -79,9               alimentacao
 ```
